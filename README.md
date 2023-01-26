@@ -33,4 +33,4 @@
     <img alt="" src="https://cdn.discordapp.com/attachments/636502333718790154/942136446863704074/image1.jpg">
 </p>
 
-  ![Snake animation](https://github.com/MrDarkShadoow/MrDarkShadoow/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/isFlipper/isFlipper/github-contribution-grid-snake.svg)
