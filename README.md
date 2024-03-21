@@ -3,7 +3,6 @@
     <img alt="" src="assets/standard.gif">
 </p>
 <p align="center" alt="" width="">
-    <img alt="" src=https://img.shields.io/github/stars/MrDarkShdoow?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=MrDarkshadoow />
 </p>
 
